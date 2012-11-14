@@ -1,0 +1,8 @@
+layout/deploy
+deploy
+*.hyde_deps
+*.DS_Store
+*un*
+*.sw*
+public
+*.pyc
